@@ -1,0 +1,21 @@
+name: Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check markdown files
+        run: |
+          # TODO: Add markdown linting
+          echo "Markdown linting to be implemented"
+      - name: Check Python scripts
+        run: |
+          # TODO: Add Python linting (flake8, black, etc.)
+          echo "Python linting to be implemented"

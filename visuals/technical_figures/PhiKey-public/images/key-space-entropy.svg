@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1200 800"
+     width="1200"
+     height="800">
+  <title>Key Space Entropy Analysis</title>
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .label { font-family: Arial, sans-serif; font-size: 14px; fill: #34495e; }
+      .small-label { font-family: Arial, sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .grid-line { stroke: #ecf0f1; stroke-width: 1; }
+      .axis-line { stroke: #95a5a6; stroke-width: 2; }
+      .data-line { stroke: #3498db; stroke-width: 3; fill: none; }
+      .data-area { fill: #3498db; opacity: 0.3; }
+      .node { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .connection { stroke: #95a5a6; stroke-width: 2; fill: none; }
+    </style>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#ffffff"/>
+  <line x1="100" y1="100.0" x2="1100" y2="100.0" class="grid-line"/>
+  <line x1="100" y1="220.0" x2="1100" y2="220.0" class="grid-line"/>
+  <line x1="100" y1="340.0" x2="1100" y2="340.0" class="grid-line"/>
+  <line x1="100" y1="460.0" x2="1100" y2="460.0" class="grid-line"/>
+  <line x1="100" y1="580.0" x2="1100" y2="580.0" class="grid-line"/>
+  <line x1="100" y1="700.0" x2="1100" y2="700.0" class="grid-line"/>
+  <rect x="120.0" y="340.0" width="60.0" height="360.0" fill="url(#purpleGradient)"/>
+  <text x="150.0" y="335.0" text-anchor="middle" class="small-label">60</text>
+  <rect x="220.0" y="322.0" width="60.0" height="378.0" fill="url(#purpleGradient)"/>
+  <text x="250.0" y="317.0" text-anchor="middle" class="small-label">63</text>
+  <rect x="320.0" y="304.0" width="60.0" height="396.0" fill="url(#purpleGradient)"/>
+  <text x="350.0" y="299.0" text-anchor="middle" class="small-label">66</text>
+  <rect x="420.0" y="286.00000000000006" width="60.0" height="413.99999999999994" fill="url(#purpleGradient)"/>
+  <text x="450.0" y="281.00000000000006" text-anchor="middle" class="small-label">69</text>
+  <rect x="520.0" y="268.0" width="60.0" height="432.0" fill="url(#purpleGradient)"/>
+  <text x="550.0" y="263.0" text-anchor="middle" class="small-label">72</text>
+  <rect x="620.0" y="250.0" width="60.0" height="450.0" fill="url(#purpleGradient)"/>
+  <text x="650.0" y="245.0" text-anchor="middle" class="small-label">75</text>
+  <rect x="720.0" y="232.0" width="60.0" height="468.0" fill="url(#purpleGradient)"/>
+  <text x="750.0" y="227.0" text-anchor="middle" class="small-label">78</text>
+  <rect x="820.0" y="213.99999999999994" width="60.0" height="486.00000000000006" fill="url(#purpleGradient)"/>
+  <text x="850.0" y="208.99999999999994" text-anchor="middle" class="small-label">81</text>
+  <rect x="920.0" y="196.0" width="60.0" height="504.0" fill="url(#purpleGradient)"/>
+  <text x="950.0" y="191.0" text-anchor="middle" class="small-label">84</text>
+  <rect x="1020.0" y="178.0" width="60.0" height="522.0" fill="url(#purpleGradient)"/>
+  <text x="1050.0" y="173.0" text-anchor="middle" class="small-label">87</text>
+  <text x="600.0" y="50" text-anchor="middle" class="title">Key Space Entropy Analysis</text>
+</svg>

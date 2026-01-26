@@ -1,0 +1,17 @@
+name: Link Check
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Check markdown links
+        run: |
+          # TODO: Add link checking (markdown-link-check, etc.)
+          echo "Link checking to be implemented"

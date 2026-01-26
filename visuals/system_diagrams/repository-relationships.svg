@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1400 1000"
+     width="1400"
+     height="1000">
+  <title>Repository Relationships</title>
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .label { font-family: Arial, sans-serif; font-size: 14px; fill: #34495e; }
+      .small-label { font-family: Arial, sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .grid-line { stroke: #ecf0f1; stroke-width: 1; }
+      .axis-line { stroke: #95a5a6; stroke-width: 2; }
+      .data-line { stroke: #3498db; stroke-width: 3; fill: none; }
+      .data-area { fill: #3498db; opacity: 0.3; }
+      .node { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .connection { stroke: #95a5a6; stroke-width: 2; fill: none; }
+    </style>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="#ffffff"/>
+  <rect x="550.0" y="150" width="300" height="120" fill="url(#blueGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="700.0" y="200.0" text-anchor="middle" class="title" fill="white">Superrepo</text>
+  <rect x="200.0" y="450" width="200" height="150" fill="url(#greenGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="300" y="515.0" text-anchor="middle" class="title" fill="white">Framework</text>
+  <rect x="600.0" y="450" width="200" height="150" fill="url(#blueGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="700.0" y="515.0" text-anchor="middle" class="title" fill="white">Public</text>
+  <rect x="1000.0" y="450" width="200" height="150" fill="url(#purpleGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="1100" y="515.0" text-anchor="middle" class="title" fill="white">WIP</text>
+  <line x1="700.0" y1="270" x2="300" y2="450" class="connection" stroke-width="3"/>
+  <polygon points="300,430 285,410 315,410" fill="#2c3e50"/>
+  <line x1="700.0" y1="270" x2="700.0" y2="450" class="connection" stroke-width="3"/>
+  <polygon points="700.0,430 685.0,410 715.0,410" fill="#2c3e50"/>
+  <line x1="700.0" y1="270" x2="1100" y2="450" class="connection" stroke-width="3"/>
+  <polygon points="1100,430 1085,410 1115,410" fill="#2c3e50"/>
+  <text x="700.0" y="50" text-anchor="middle" class="title">Repository Relationships</text>
+  <text x="700.0" y="80" text-anchor="middle" class="label">Superrepo Coordinates Three Repositories</text>
+</svg>

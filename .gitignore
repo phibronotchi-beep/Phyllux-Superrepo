@@ -1,0 +1,51 @@
+# Phyllux Superrepo .gitignore
+
+# Confidential deal pipeline (never commit)
+partnerships/pipeline/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analytics outputs (if sensitive)
+# Uncomment if analytics outputs should not be committed
+# analytics/outputs/
+
+# Temporary files
+*.tmp
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Figure generation scripts (contains no API keys, but exclude for safety)
+generate_figures.py
+generate_comprehensive_figures.py
+generate_comprehensive_svgs.py
+
+# Temporary old images folder
+temp_old_images/
+
+# Environment files (may contain API keys)
+.env
+.env.local
+*.env

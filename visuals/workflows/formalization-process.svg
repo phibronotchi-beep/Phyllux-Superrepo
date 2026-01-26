@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1400 600"
+     width="1400"
+     height="600">
+  <title>Formalization Process</title>
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .label { font-family: Arial, sans-serif; font-size: 14px; fill: #34495e; }
+      .small-label { font-family: Arial, sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .grid-line { stroke: #ecf0f1; stroke-width: 1; }
+      .axis-line { stroke: #95a5a6; stroke-width: 2; }
+      .data-line { stroke: #3498db; stroke-width: 3; fill: none; }
+      .data-area { fill: #3498db; opacity: 0.3; }
+      .node { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .connection { stroke: #95a5a6; stroke-width: 2; fill: none; }
+    </style>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="600" fill="#ffffff"/>
+  <rect x="100.0" y="200.0" width="200.0" height="200" fill="url(#blueGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="200.0" y="240.0" text-anchor="middle" class="title" fill="white">Conceptual</text>
+  <text x="200.0" y="270.0" text-anchor="middle" class="label" fill="white">Level 1/10</text>
+  <polygon points="310.0,280.0 330.0,300.0 310.0,320.0" fill="#2c3e50"/>
+  <rect x="340.0" y="200.0" width="200.0" height="200" fill="url(#greenGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="440.0" y="240.0" text-anchor="middle" class="title" fill="white">Derived</text>
+  <text x="440.0" y="270.0" text-anchor="middle" class="label" fill="white">Level 3/10</text>
+  <polygon points="550.0,280.0 570.0,300.0 550.0,320.0" fill="#2c3e50"/>
+  <rect x="580.0" y="200.0" width="200.0" height="200" fill="url(#purpleGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="680.0" y="240.0" text-anchor="middle" class="title" fill="white">Simulated</text>
+  <text x="680.0" y="270.0" text-anchor="middle" class="label" fill="white">Level 5/10</text>
+  <polygon points="790.0,280.0 810.0,300.0 790.0,320.0" fill="#2c3e50"/>
+  <rect x="820.0" y="200.0" width="200.0" height="200" fill="url(#blueGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="920.0" y="240.0" text-anchor="middle" class="title" fill="white">Structural</text>
+  <text x="920.0" y="270.0" text-anchor="middle" class="label" fill="white">Level 7/10</text>
+  <polygon points="1030.0,280.0 1050.0,300.0 1030.0,320.0" fill="#2c3e50"/>
+  <rect x="1060.0" y="200.0" width="200.0" height="200" fill="url(#greenGradient)" rx="10" stroke="#2c3e50" stroke-width="2"/>
+  <text x="1160.0" y="240.0" text-anchor="middle" class="title" fill="white">Candidate</text>
+  <text x="1160.0" y="270.0" text-anchor="middle" class="label" fill="white">Level 9/10</text>
+</svg>

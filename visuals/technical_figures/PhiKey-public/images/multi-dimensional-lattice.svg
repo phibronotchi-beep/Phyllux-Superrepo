@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1200 1200"
+     width="1200"
+     height="1200">
+  <title>Multi-Dimensional Lattice</title>
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .label { font-family: Arial, sans-serif; font-size: 14px; fill: #34495e; }
+      .small-label { font-family: Arial, sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .grid-line { stroke: #ecf0f1; stroke-width: 1; }
+      .axis-line { stroke: #95a5a6; stroke-width: 2; }
+      .data-line { stroke: #3498db; stroke-width: 3; fill: none; }
+      .data-area { fill: #3498db; opacity: 0.3; }
+      .node { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .connection { stroke: #95a5a6; stroke-width: 2; fill: none; }
+    </style>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="#ffffff"/>
+  <circle cx="600.0" cy="550.0" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="552.2773061770221" cy="593.717535317974" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="608.0026440989886" cy="458.8226207471123" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="668.2038801067129" cy="638.962160149072" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="472.5390578669678" cy="527.4517887503283" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="722.1084476675865" cy="472.32813245317004" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="558.8408933578874" cy="703.0947364883039" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="521.0818765386231" cy="398.0372460458325" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="771.9461457851394" cy="612.8008769814212" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="420.5263212105427" cy="624.0763404993706" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="686.7530613077852" cy="364.6336320857322" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="664.2325891038847" cy="754.8161050723587" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="406.0280950017608" cy="437.5765110337076" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="827.9112225678987" cy="499.9071479389946" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="460.7151984038952" cy="748.0940222327108" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="567.8029323414053" cy="301.416965916441" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="797.9413388498826" cy="716.8474775785236" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="333.3797059535511" cy="561.0068888694822" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="794.6473635799339" cy="356.32859000001827" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="586.9469767128907" cy="831.8057987037637" r="5" fill="url(#purpleGradient)" opacity="0.6" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="600.0" cy="600.0" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="552.2773061770221" cy="643.717535317974" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="608.0026440989886" cy="508.8226207471123" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="668.2038801067129" cy="688.962160149072" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="472.5390578669678" cy="577.4517887503283" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="722.1084476675865" cy="522.32813245317" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="558.8408933578874" cy="753.0947364883039" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="521.0818765386231" cy="448.0372460458325" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="771.9461457851394" cy="662.8008769814212" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="420.5263212105427" cy="674.0763404993706" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="686.7530613077852" cy="414.6336320857322" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="664.2325891038847" cy="804.8161050723587" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="406.0280950017608" cy="487.5765110337076" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="827.9112225678987" cy="549.9071479389946" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="460.7151984038952" cy="798.0940222327108" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="567.8029323414053" cy="351.416965916441" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="797.9413388498826" cy="766.8474775785236" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="333.3797059535511" cy="611.0068888694822" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="794.6473635799339" cy="406.32859000001827" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="586.9469767128907" cy="881.8057987037637" r="4" fill="url(#purpleGradient)" opacity="0.8" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="600.0" cy="650.0" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="552.2773061770221" cy="693.717535317974" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="608.0026440989886" cy="558.8226207471123" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="668.2038801067129" cy="738.962160149072" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="472.5390578669678" cy="627.4517887503283" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="722.1084476675865" cy="572.32813245317" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="558.8408933578874" cy="803.0947364883039" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="521.0818765386231" cy="498.0372460458325" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="771.9461457851394" cy="712.8008769814212" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="420.5263212105427" cy="724.0763404993706" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="686.7530613077852" cy="464.6336320857322" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="664.2325891038847" cy="854.8161050723587" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="406.0280950017608" cy="537.5765110337077" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="827.9112225678987" cy="599.9071479389946" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="460.7151984038952" cy="848.0940222327108" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="567.8029323414053" cy="401.416965916441" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="797.9413388498826" cy="816.8474775785236" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="333.3797059535511" cy="661.0068888694822" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="794.6473635799339" cy="456.32859000001827" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <circle cx="586.9469767128907" cy="931.8057987037637" r="3" fill="url(#purpleGradient)" opacity="1.0" stroke="#8e44ad" stroke-width="1"/>
+  <text x="600.0" y="50" text-anchor="middle" class="title">Multi-Dimensional Lattice</text>
+</svg>

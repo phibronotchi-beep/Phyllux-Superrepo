@@ -1,0 +1,85 @@
+# Cursor AI Rules for Phyllux Superrepo
+
+## CRITICAL: DO NOT MODIFY
+
+Under NO circumstances should AI modify these:
+- LICENSE files (in any repo)
+- PRIOR_ART.md, PATENTS.md, DISCLOSURE.md files
+- INVENTORSHIP_DECLARATION.md
+- TIMESTAMP.md
+- Maturity tags in phyllux-inventions-wip
+- Commit history or git tags
+- Any file in legal/ directories
+
+## Qualified Language Requirements
+
+ALWAYS use qualified language:
+- "may provide"
+- "designed to"
+- "simulations suggest"
+- "could enable"
+- "appears to"
+
+NEVER use absolute claims:
+- "guarantees"
+- "proven"
+- "definitely"
+- Absolute performance assertions
+
+## Repository Modification Rules
+
+### biomimetic-inventions-public
+- ❌ Do NOT modify source code
+- ❌ Do NOT change dates or version numbers
+- ❌ Do NOT alter technical figures
+- ✅ Can reference via URLs
+
+### phyllux-framework
+- ❌ Do NOT change licensing terms
+- ❌ Do NOT modify templates
+- ❌ Do NOT alter PHYLUX_SPINE.md
+- ✅ Can reference framework
+
+### phyllux-inventions-wip
+- ❌ Do NOT change fusion content
+- ❌ Do NOT modify maturity tags
+- ❌ Do NOT delete fusion directories
+- ✅ Can reference fusions
+
+### phyllux-superrepo
+- ✅ Can update CONTROL_PANEL.md
+- ✅ Can add pipeline entries
+- ✅ Can generate briefs
+- ✅ Can run analytics scripts
+- ❌ Do NOT modify .cursor/rules
+- ❌ Do NOT change REVENUE_MODEL.md tier definitions
+
+## Safe Modification Zones
+
+Safe to modify in superrepo:
+- CONTROL_PANEL.md (daily updates)
+- partnerships/pipeline/ (deal tracking)
+- OPPORTUNITY_MATRIX.md (scoring updates)
+- Partner briefs (using templates)
+- Analytics script outputs
+
+Never modify:
+- LICENSE, PRIOR_ART, PATENTS, DISCLOSURE files
+- Maturity tags
+- Commit history
+- Legal files
+
+## Read-Only Principle
+
+This superrepo NEVER modifies the three existing repos:
+- biomimetic-inventions-public
+- phyllux-framework
+- phyllux-inventions-wip
+
+All references via URLs or read-only data access.
+
+## Prior Art Protection
+
+- All repos reference prior art dates consistently
+- No modifications to LICENSE, PRIOR_ART, PATENTS, DISCLOSURE files
+- Defensive publication strategy maintained

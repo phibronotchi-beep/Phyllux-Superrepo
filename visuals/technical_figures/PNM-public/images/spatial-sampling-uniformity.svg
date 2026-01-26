@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 1400 800"
+     width="1400"
+     height="800">
+  <title>Spatial Sampling Uniformity Comparison</title>
+  <defs>
+    <style>
+      .title { font-family: Arial, sans-serif; font-size: 24px; font-weight: bold; fill: #2c3e50; }
+      .label { font-family: Arial, sans-serif; font-size: 14px; fill: #34495e; }
+      .small-label { font-family: Arial, sans-serif; font-size: 12px; fill: #7f8c8d; }
+      .grid-line { stroke: #ecf0f1; stroke-width: 1; }
+      .axis-line { stroke: #95a5a6; stroke-width: 2; }
+      .data-line { stroke: #3498db; stroke-width: 3; fill: none; }
+      .data-area { fill: #3498db; opacity: 0.3; }
+      .node { fill: #3498db; stroke: #2980b9; stroke-width: 2; }
+      .connection { stroke: #95a5a6; stroke-width: 2; fill: none; }
+    </style>
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3498db;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2980b9;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="greenGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2ecc71;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#27ae60;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#9b59b6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8e44ad;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="800" fill="#ffffff"/>
+  <text x="350.0" y="100" text-anchor="middle" class="title">Regular Grid</text>
+  <circle cx="270.0" cy="320.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="270.0" cy="360.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="270.0" cy="400.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="270.0" cy="440.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="270.0" cy="480.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="310.0" cy="320.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="310.0" cy="360.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="310.0" cy="400.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="310.0" cy="440.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="310.0" cy="480.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="350.0" cy="320.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="350.0" cy="360.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="350.0" cy="400.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="350.0" cy="440.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="350.0" cy="480.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="390.0" cy="320.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="390.0" cy="360.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="390.0" cy="400.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="390.0" cy="440.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="390.0" cy="480.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="430.0" cy="320.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="430.0" cy="360.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="430.0" cy="400.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="430.0" cy="440.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <circle cx="430.0" cy="480.0" r="8" fill="url(#blueGradient)" stroke="#2980b9" stroke-width="1.5"/>
+  <text x="1050.0" y="100" text-anchor="middle" class="title">Phyllotactic Layout</text>
+  <circle cx="1050.0" cy="400.0" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1020.5051336075538" cy="427.0194903077714" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1054.9460099499313" cy="343.64809687707805" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1092.1532015492662" cy="454.982793664445" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="971.2231507212409" cy="386.0641463228235" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1125.468756284046" cy="351.99513748650804" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1024.5617387873222" cy="494.61973824987876" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1001.2248927927213" cy="306.0798801272141" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1156.2707946756116" cy="438.8138918302974" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="939.0768363476778" cy="445.7826579106123" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1103.617466815689" cy="285.4348776796862" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1089.698757171746" cy="526.5859734687014" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="930.1162515462056" cy="330.51700311106777" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1190.8598408948694" cy="369.0402644863996" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="963.9154501878215" cy="522.4314105270154" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1030.1006998401763" cy="246.3640086010142" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1172.3370450246493" cy="503.11957823147316" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="885.2161347055322" cy="406.80277433218924" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1170.3012135846316" cy="280.30197156985054" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1041.9326184875715" cy="574.1692204596809" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="935.397776278719" cy="262.6452391864867" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1231.663909605973" cy="424.45861702290034" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="895.9836174674053" cy="507.1398801174123" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1092.121553301942" cy="212.8482574288135" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <circle cx="1147.4103516332839" cy="570.0330067800954" r="8" fill="url(#greenGradient)" stroke="#27ae60" stroke-width="1.5"/>
+  <text x="700.0" y="50" text-anchor="middle" class="title">Spatial Sampling Uniformity</text>
+</svg>
