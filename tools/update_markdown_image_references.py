@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Markdown Image Reference Updater
+update_markdown_image_references.py - Update Markdown image references
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Updates Markdown files to show textless SVG images first, with labeled SVGs
 available as links or alternates.

@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Textless SVG Generator (no Cairo required)
+generate_textless_from_svg.py - Generate textless SVG versions of diagrams
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 This tool only reads SVG diagrams and writes new SVG files.
 It does not modify any source code, legal documents, or IP claims.

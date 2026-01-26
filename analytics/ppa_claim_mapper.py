@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-PPA Claim Mapper
+ppa_claim_mapper.py - Map technical figures to PPA claims
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Purpose: Map technical figures from biomimetic-inventions-public to PPA claims
 and embodiments. Generates cross-reference tables for patent attorney review.

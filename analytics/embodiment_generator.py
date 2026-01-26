@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Embodiment Generator
+embodiment_generator.py - Generate PPA embodiment descriptions
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Purpose: Generate PPA embodiment descriptions from fusion data. Creates
 draft embodiments for patent attorney review.

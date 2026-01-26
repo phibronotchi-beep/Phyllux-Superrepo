@@ -1,11 +1,12 @@
 # Analytics Scripts Requirements
+# Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+# License: MIT
 
-# Core dependencies
-# TODO: Add actual dependencies as scripts are implemented
-# Example:
-# numpy>=1.24.0
-# pandas>=2.0.0
-# requests>=2.31.0
+# Core dependencies (to be added as scripts are implemented)
+# Standard library only for now - scripts are functional stubs
 
-# For now, scripts are functional stubs
-# Dependencies will be added as implementation progresses
+# Future dependencies (commented until needed):
+# numpy>=1.24.0          # For numerical operations
+# pandas>=2.0.0          # For data analysis
+# requests>=2.31.0       # For API calls
+# python-dotenv>=1.0.0   # For .env file support

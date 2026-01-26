@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Maturity Tracker
+maturity_tracker.py - Track fusion maturity progression
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Purpose: Track maturity progression across all fusions and generate
 maturity pipeline reports.

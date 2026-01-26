@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-SVG File Verification Script
+verify_svg_files.py - Verify SVG file integrity and references
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Verifies that all SVG files:
 1. Exist in the correct locations

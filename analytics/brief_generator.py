@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Brief Generator
+brief_generator.py - Generate partner briefs from templates
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Purpose: Generate partner briefs from tier-specific templates. Automates
 initial draft generation for customization.

@@ -86,21 +86,114 @@ This superrepo does NOT duplicate code, weaken IP protections, or create new cla
 
 ![Repository Relationships](visuals/system_diagrams/repository-relationships.svg)
 
+## Installation
+
+This repository contains documentation, scripts, and tools. No installation required for viewing documentation.
+
+**For Python tools (analytics, textless SVG generation):**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install -r analytics/requirements.txt
+```
+
+**Environment Setup:**
+1. Copy `.env.example` to `.env`
+2. Add your FAL API key (if using image generation tools)
+3. Never commit `.env` to version control
+
+## Usage
+
+### Quick Start
+1. Read [QUICK_START.md](QUICK_START.md) for 5-minute orientation
+2. Check [CONTROL_PANEL.md](CONTROL_PANEL.md) for daily operations
+3. Review [SYSTEM_CONTEXT.md](SYSTEM_CONTEXT.md) to understand ecosystem
+
+### Common Workflows
+
+**Generate Partner Brief:**
+1. Review [FAST_TRACK_WORKFLOW.md](partnerships/FAST_TRACK_WORKFLOW.md)
+2. Select appropriate tier template from `partnerships/briefs/`
+3. Customize for partner and technology
+4. Review and send
+
+**Score Opportunities:**
+1. Run `analytics/fusion_scorer.py` (when implemented)
+2. Review `strategy/OPPORTUNITY_MATRIX.md`
+3. Prioritize using `strategy/TOP_5_LANES.md`
+
+**Generate Textless Diagrams:**
+```bash
+python tools/generate_textless_from_svg.py --root . --suffix "-textless"
+python tools/update_markdown_image_references.py --root . --mode "inline-plus-link"
+```
+
+## Repository Structure
+
+```
+phyllux-superrepo/
+├── README.md                 # This file
+├── QUICK_START.md            # 5-minute orientation
+├── CONTROL_PANEL.md          # Daily operations dashboard
+├── strategy/                 # Strategic analysis and planning
+├── partnerships/             # Partner engagement and deal tracking
+├── architecture/             # System architecture documentation
+├── workflows/                # Operational workflows
+├── ecosystem/                # Ecosystem vision and governance
+├── ai-collaboration/         # AI interaction guidelines
+├── legal/                    # Legal and IP coordination
+├── analytics/                # Analytics scripts (Python)
+├── tools/                    # Utility scripts
+└── visuals/                  # Visual assets (SVG diagrams)
+```
+
+See [NAVIGATION.md](NAVIGATION.md) for complete file map.
+
+## Integration
+
+This repository integrates with three other Phyllux repositories:
+
+- **[biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)** - References code and figures for technical validation
+- **[phyllux-framework](https://github.com/phibronotchi-beep/phyllux-framework)** - Uses 4-tier licensing model and templates
+- **[phyllux-inventions-wip](https://github.com/phibronotchi-beep/phyllux-inventions-wip)** - Scores 350 fusions for opportunities
+
+See [SYSTEM_CONTEXT.md](SYSTEM_CONTEXT.md) for detailed integration mapping.
+
+## Contributing
+
+We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+**Critical:** Never modify LICENSE, PRIOR_ART, PATENTS, or DISCLOSURE files. Always use qualified language.
+
+## License
+
+- **Code:** MIT License (see [LICENSE](LICENSE))
+- **Documentation:** CC BY-SA 4.0
+- **IP Notice:** All inventions remain proprietary. Prior art established January 7, 2026. PPA filing in progress (late January 2026).
+
 ## Contact
 
 **David Edward Sproule**  
 Independent Inventor | Phyllux Technologies  
-Alberta, Canada  
-Email: phibronotchi@gmail.com
+Edmonton, Alberta, Canada  
+**Email:** phibronotchi@gmail.com  
+**GitHub:** [@phibronotchi-beep](https://github.com/phibronotchi-beep)  
+**Twitter/X:** [@Phibronotchi](https://twitter.com/Phibronotchi)
 
-## License
+---
 
-This superrepo uses the same multi-license structure as phyllux-framework:
-- Documentation: CC BY-SA 4.0
-- Code (if any): MIT
-- IP Notice: See individual repos for invention claims
+## 🌿 Phyllux Ecosystem
 
-**All inventions remain proprietary.** This repo coordinates commercialization; it does not weaken IP protections.
+This repository is part of the **Phyllux Technologies** ecosystem:
+
+- **[biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)** - Public demos & prior art
+- **[phyllux-framework](https://github.com/phibronotchi-beep/phyllux-framework)** - Ethical IP framework
+- **[phyllux-inventions-wip](https://github.com/phibronotchi-beep/phyllux-inventions-wip)** - 350 technology fusions
+
+**Learn more:** [Phyllux Technologies](https://github.com/phibronotchi-beep)  
+**Nature's 137.508° Innovation** | **Multi-Domain Phyllotactic Systems**
+
+**Priority Date:** January 7, 2026
 
 ---
 
@@ -137,7 +230,7 @@ python tools/update_markdown_image_references.py --root . --mode "inline-plus-li
 
 This will:
 - Find all SVG image references in Markdown files
-- For each SVG with a corresponding textless PNG, insert the textless image first
+- For each SVG with a corresponding textless SVG, insert the textless image first
 - Add a link to the labeled SVG version
 - Preserve all existing alt text and surrounding content
 

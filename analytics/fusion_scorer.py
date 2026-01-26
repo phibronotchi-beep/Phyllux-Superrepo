@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Fusion Scorer
+fusion_scorer.py - Score 350 fusions for commercial opportunities
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Purpose: Score all 350 fusions on TAM, maturity, feasibility, and strategic
 alignment. Updates OPPORTUNITY_MATRIX.md with results.

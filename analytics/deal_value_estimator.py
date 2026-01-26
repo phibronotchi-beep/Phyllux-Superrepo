@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Deal Value Estimator
+deal_value_estimator.py - Estimate partnership deal values
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-superrepo
 
 Purpose: Estimate deal value for partnerships based on tier, technology,
 and market conditions. Supports revenue model validation.
