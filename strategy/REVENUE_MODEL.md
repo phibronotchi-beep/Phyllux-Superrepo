@@ -32,8 +32,8 @@
 - **Optimistic:** $70-150M over 5 years
 
 **Examples:**
-- Neuralink (Phyllux Mesh + BCIs): $10-50M potential
-- SpaceX (Phyllux Wave + Satellites): $20-100M potential
+- Tier 1 BCI (Phyllux Mesh + BCIs): $10-50M potential
+- Tier 1 Satellite (Phyllux Wave + Satellites): $20-100M potential
 
 **Timeline:** 12-24 months to first revenue
 
@@ -124,7 +124,7 @@
 ### Phyllux Mesh (Neural Interfaces)
 
 **Tier 1 Partnerships:**
-- Neuralink: $10-50M (5 years)
+- Tier 1 BCI: $10-50M (5 years)
 - [Additional Tier 1]: $10-30M (5 years)
 - **Total Tier 1:** $20-80M
 
@@ -146,7 +146,7 @@
 ### Phyllux Wave (Communications)
 
 **Tier 1 Partnerships:**
-- SpaceX: $20-100M (5 years)
+- Tier 1 Satellite: $20-100M (5 years)
 - [Additional Tier 1]: $10-30M (5 years)
 - **Total Tier 1:** $30-130M
 

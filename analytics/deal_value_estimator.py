@@ -11,7 +11,7 @@ Purpose: Estimate deal value for partnerships based on tier, technology,
 and market conditions. Supports revenue model validation.
 
 Usage:
-    python deal_value_estimator.py --tier pioneer --tech "Mesh" --app "BCIs" --partner "Neuralink"
+    python deal_value_estimator.py --tier pioneer --tech "Mesh" --app "BCIs" --partner "Tier1_BCI"
 
 TODO:
     - Read REVENUE_MODEL.md for tier structures

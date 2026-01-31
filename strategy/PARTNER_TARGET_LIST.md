@@ -12,24 +12,24 @@
 
 ### Neural Interfaces (Phyllux Mesh)
 
-#### Neuralink
-- **Status:** ✅ Brief ready (see partnerships/briefs/_URGENT_neuralink_mesh.md)
+#### Tier 1 — BCI (mission-critical)
+- **Status:** Brief available on request (see partnerships/briefs/_URGENT_neuralink_mesh.md)
 - **Technology:** Phyllux Mesh + BCIs (Fusion 234)
 - **Alignment:** Mission-critical, exclusive potential
 - **Contact:** [To be identified]
-- **Next Action:** Send brief post-PPA (late January/early February 2026)
+- **Next Action:** Send brief post-PPA when requested
 - **Priority:** 🔴 URGENT
 
 ---
 
 ### Satellite Communications (Phyllux Wave)
 
-#### SpaceX
-- **Status:** ✅ Brief ready (see partnerships/briefs/_URGENT_spacex_wave.md)
+#### Tier 1 — Satellite (mission-critical)
+- **Status:** Brief available on request (see partnerships/briefs/_URGENT_spacex_wave.md)
 - **Technology:** Phyllux Wave + Satellite Constellations (Fusion 115)
 - **Alignment:** Mission-critical, exclusive potential
 - **Contact:** [To be identified]
-- **Next Action:** Send brief post-PPA (late January/early February 2026)
+- **Next Action:** Send brief post-PPA when requested
 - **Priority:** 🔴 URGENT
 
 ---
@@ -183,8 +183,8 @@
 ## Contact Strategy
 
 ### Phase 1: Urgent (Post-PPA, Late January 2026)
-1. Neuralink (Tier 1, Brief ready)
-2. SpaceX (Tier 1, Brief ready)
+1. Tier 1 BCI (Brief available on request)
+2. Tier 1 Satellite (Brief available on request)
 
 ### Phase 2: High Priority (February-March 2026)
 3. Synchron (Tier 2)

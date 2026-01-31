@@ -45,7 +45,7 @@ This document maps Phyllux technologies to their supporting evidence across thre
 
 **Embodiments in WIP:**
 - Fusions 101-130 (Communications category)
-- Fusion 115: Phyllux Wave + Satellite Constellations (HIGH PRIORITY - SpaceX alignment)
+- Fusion 115: Phyllux Wave + Satellite Constellations (HIGH PRIORITY - Tier 1 satellite)
 - Fusion 125: Phyllux Wave + 5G/6G Networks
 - Fusion 128: Phyllux Wave + Terahertz Communication
 
@@ -81,7 +81,7 @@ This document maps Phyllux technologies to their supporting evidence across thre
 
 **Embodiments in WIP:**
 - Fusions 231-245 (Medical category)
-- Fusion 234: Phyllux Mesh + Brain-Computer Interfaces (HIGH PRIORITY - Neuralink alignment)
+- Fusion 234: Phyllux Mesh + Brain-Computer Interfaces (HIGH PRIORITY - Tier 1 BCI)
 - Fusions in Biological category (65 total) - Many involve neural/synaptic concepts
 - Fusion 241: Phyllux Mesh + Neuroprosthetics
 
@@ -238,13 +238,13 @@ This document maps Phyllux technologies to their supporting evidence across thre
 
 1. **Phyllux Mesh + Brain-Computer Interfaces** (Fusion 234)
    - Maturity: Structural (7/10)
-   - Application: Neuralink-class neural interfaces
+   - Application: Tier 1 BCI (neural interfaces)
    - Evidence: Public demo code + simulations
    - Figures: 1, 5, 9, 11, 14
 
 2. **Phyllux Wave + Satellite Constellations** (Fusion 115)
    - Maturity: Simulated (5/10)
-   - Application: SpaceX Starlink phased arrays
+   - Application: Tier 1 satellite phased arrays
    - Evidence: Public demo code + array factor analysis
    - Figures: 3, 7, 12, 15, 18
 

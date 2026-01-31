@@ -27,7 +27,7 @@ This repository defines the ethical and governance framework for the Phyllux eco
 - Exclusive licensing (typically)
 - Mission-critical applications
 - High-value partnerships
-- Examples: Neuralink (BCIs), SpaceX (satellites)
+- Examples: Tier 1 BCI, Tier 1 satellite
 
 **Use Cases:**
 - Technologies that could transform entire industries

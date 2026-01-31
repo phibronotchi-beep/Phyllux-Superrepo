@@ -37,7 +37,7 @@ This superrepo does NOT duplicate code, weaken IP protections, or create new cla
 - 📋 [PPA Evidence Map](strategy/PPA_EVIDENCE_MAP.md) - Cross-repo evidence for USPTO filing
 - 🎯 [Top 5 Commercial Lanes](strategy/TOP_5_LANES.md) - Highest-value opportunities
 - 🤝 [Partner Target List](strategy/PARTNER_TARGET_LIST.md) - Specific organizations to contact
-- ⚡ [Urgent Briefs](partnerships/briefs/) - Pre-drafted Neuralink and SpaceX proposals
+- ⚡ [Urgent Briefs](partnerships/briefs/) - Tier 1 partnership briefs (available on request)
 
 ### Daily Operations
 - 🎛️ [Control Panel](CONTROL_PANEL.md) - Daily status and next actions
@@ -52,6 +52,7 @@ This superrepo does NOT duplicate code, weaken IP protections, or create new cla
 - 🏢 [Partnership Playbook](partnerships/PARTNERSHIP_PLAYBOOK.md) - How to engage partners
 
 ### Ecosystem & Governance
+- 📎 [Ecosystem & Links](ECOSYSTEM_AND_LINKS.md) - All repo links, PHYLLUX-DOCS, and **official domains** (www.phyllux.org, www.phyllux.io, www.phyllux.com — *coming soon; we're working on it*)
 - 🌟 [Vision](ecosystem/VISION.md) - Long-term ecosystem goals
 - 🤖 [AI Collaboration Rules](ai-collaboration/CURSOR_RULES.md) - Safety guardrails
 - ⚖️ [Governance Framework](ecosystem/GOVERNANCE_FRAMEWORK.md) - Decision-making structure

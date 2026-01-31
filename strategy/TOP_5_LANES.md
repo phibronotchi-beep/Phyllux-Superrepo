@@ -29,7 +29,7 @@ These five lanes represent the highest-priority commercial opportunities based o
 
 ### Technology
 - **Core:** Phyllux Mesh (121-electrode phyllotactic arrays)
-- **Application:** Neuralink-class brain-computer interfaces
+- **Application:** Tier 1 BCI (brain-computer interfaces)
 - **Advantage:** Non-periodic layout designed to minimize crosstalk, may improve signal quality
 
 ### Evidence
@@ -39,10 +39,10 @@ These five lanes represent the highest-priority commercial opportunities based o
 - **Embodiment:** Fusion 234 in phyllux-inventions-wip
 
 ### Target Partners
-1. **Neuralink** (Primary)
+1. **Tier 1 primary — BCI** (Primary)
    - Mission: Restore human capability
    - Alignment: Pioneer tier, exclusive potential
-   - Status: Brief ready (see partnerships/briefs/_URGENT_neuralink_mesh.md)
+   - Status: Brief available on request (see partnerships/briefs/_URGENT_neuralink_mesh.md)
 
 2. **Synchron** (Secondary)
    - Mission: Minimally invasive BCIs
@@ -77,7 +77,7 @@ These five lanes represent the highest-priority commercial opportunities based o
 
 ### Technology
 - **Core:** Phyllux Wave (golden-angle fractal antenna arrays)
-- **Application:** Starlink-class satellite constellations, phased arrays
+- **Application:** Tier 1 satellite constellations, phased arrays
 - **Advantage:** Non-periodic layout may reduce grating lobes, improve beamforming
 
 ### Evidence
@@ -87,10 +87,10 @@ These five lanes represent the highest-priority commercial opportunities based o
 - **Embodiment:** Fusion 115 in phyllux-inventions-wip
 
 ### Target Partners
-1. **SpaceX** (Primary)
+1. **Tier 1 primary — Satellite** (Primary)
    - Mission: Global internet connectivity
    - Alignment: Pioneer tier, exclusive potential
-   - Status: Brief ready (see partnerships/briefs/_URGENT_spacex_wave.md)
+   - Status: Brief available on request (see partnerships/briefs/_URGENT_spacex_wave.md)
 
 2. **Amazon Kuiper** (Secondary)
    - Mission: Low Earth orbit satellite internet
@@ -344,8 +344,8 @@ These five lanes represent the highest-priority commercial opportunities based o
 - [OPPORTUNITY_MATRIX.md](OPPORTUNITY_MATRIX.md) - All 350 fusions scored
 - [PARTNER_TARGET_LIST.md](PARTNER_TARGET_LIST.md) - Specific partner organizations
 - [REVENUE_MODEL.md](REVENUE_MODEL.md) - Detailed revenue estimation
-- [partnerships/briefs/_URGENT_neuralink_mesh.md](../partnerships/briefs/_URGENT_neuralink_mesh.md) - Neuralink brief
-- [partnerships/briefs/_URGENT_spacex_wave.md](../partnerships/briefs/_URGENT_spacex_wave.md) - SpaceX brief
+- [partnerships/briefs/_URGENT_neuralink_mesh.md](../partnerships/briefs/_URGENT_neuralink_mesh.md) - Tier 1 BCI brief
+- [partnerships/briefs/_URGENT_spacex_wave.md](../partnerships/briefs/_URGENT_spacex_wave.md) - Tier 1 satellite brief
 
 ---
 

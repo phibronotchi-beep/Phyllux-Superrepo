@@ -26,7 +26,7 @@
 - Brain mapping: $3.0B (2030)
 
 **Key Players:**
-- Neuralink (BCIs)
+- Tier 1 BCI (BCIs)
 - Synchron (Minimally invasive BCIs)
 - Blackrock Neurotech (Neural recording)
 - Medtronic (Neurostimulation)
@@ -60,7 +60,7 @@
 - Satellite internet: $60B (2030)
 
 **Key Players:**
-- SpaceX (Starlink)
+- Tier 1 satellite (constellations)
 - Amazon (Kuiper)
 - OneWeb
 - Telesat
@@ -155,7 +155,7 @@
 - Method spine (137.508° golden angle)
 
 **Competitive Challenges:**
-- Established players (Neuralink, Synchron)
+- Established players (BCI leaders, Synchron)
 - Regulatory barriers
 - Clinical validation requirements
 - Market penetration
@@ -177,7 +177,7 @@
 - Method spine (137.508° golden angle)
 
 **Competitive Challenges:**
-- Established players (SpaceX, Amazon)
+- Established players (satellite constellation leaders, Amazon)
 - Space qualification requirements
 - Technical validation needed
 - Market penetration
@@ -253,7 +253,7 @@
 ## Market Entry Strategy
 
 ### Phase 1: Pioneer Partnerships (Year 1-2)
-- Target: Tier 1 partnerships (Neuralink, SpaceX)
+- Target: Tier 1 partnerships (BCI, satellite)
 - Focus: Mission-critical applications
 - Revenue: $30-130M potential
 

@@ -86,8 +86,8 @@
 ### 2. Send Pre-Approved Briefs (If Marked Ready)
 
 **Pre-approved briefs:**
-- partnerships/briefs/_URGENT_neuralink_mesh.md (if marked ✅ Ready)
-- partnerships/briefs/_URGENT_spacex_wave.md (if marked ✅ Ready)
+- partnerships/briefs/_URGENT_neuralink_mesh.md (Tier 1 BCI — available on request)
+- partnerships/briefs/_URGENT_spacex_wave.md (Tier 1 satellite — available on request)
 
 **How to send:**
 1. Convert markdown to PDF or clean email format

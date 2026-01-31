@@ -168,7 +168,7 @@
 
 1. **Superrepo identifies opportunity:**
    - Fusion 234 (Phyllux Mesh + BCIs) scores high in OPPORTUNITY_MATRIX.md
-   - Neuralink identified in PARTNER_TARGET_LIST.md
+   - Tier 1 BCI identified in PARTNER_TARGET_LIST.md
    - Tier 1 (Pioneer) selected based on mission alignment
 
 2. **Superrepo generates brief:**

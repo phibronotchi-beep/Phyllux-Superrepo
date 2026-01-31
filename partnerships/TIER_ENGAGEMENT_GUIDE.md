@@ -43,8 +43,8 @@
 - Agreement: 6-12 months
 
 ### Target Partners
-- Neuralink (Phyllux Mesh + BCIs)
-- SpaceX (Phyllux Wave + Satellites)
+- Tier 1 BCI (Phyllux Mesh + BCIs)
+- Tier 1 Satellite (Phyllux Wave + Satellites)
 
 ---
 

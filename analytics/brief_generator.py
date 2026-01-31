@@ -11,7 +11,7 @@ Purpose: Generate partner briefs from tier-specific templates. Automates
 initial draft generation for customization.
 
 Usage:
-    python brief_generator.py --tier pioneer --partner "Neuralink" --tech "Mesh" --app "BCIs" --output ../partnerships/briefs/neuralink_mesh.md
+    python brief_generator.py --tier pioneer --partner "Tier1_BCI" --tech "Mesh" --app "BCIs" --output ../partnerships/briefs/neuralink_mesh.md
 
 TODO:
     - Read tier template

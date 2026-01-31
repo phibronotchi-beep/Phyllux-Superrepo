@@ -18,15 +18,15 @@
 |----------|------|--------|
 | Late Jan 2026 | File PPA | 🟡 In Progress |
 | Mid-Feb 2026 | Treatment begins | ⏰ Approaching |
-| [Date] | Send Neuralink brief | ⏳ Pending PPA |
-| [Date] | Send SpaceX brief | ⏳ Pending PPA |
+| [Date] | Send Tier 1 BCI brief | ⏳ Pending PPA |
+| [Date] | Send Tier 1 satellite brief | ⏳ Pending PPA |
 
 ## This Week's Goals
 
 ### Week 1: MVP + PPA Support
 - [ ] Complete PPA_EVIDENCE_MAP.md
 - [ ] Review 25 technical figures mapping
-- [ ] Finalize urgent briefs (Neuralink, SpaceX)
+- [ ] Finalize urgent briefs (Tier 1 BCI, Tier 1 satellite)
 - [ ] Set up HANDOFF_GUIDE.md
 - [ ] Test analytics scripts
 
@@ -57,8 +57,8 @@
 
 | Partner | Technology | Tier | Status | Next Action |
 |---------|------------|------|--------|-------------|
-| Neuralink | Phyllux Mesh | Pioneer | ✅ Ready | Send post-PPA |
-| SpaceX | Phyllux Wave | Pioneer | ✅ Ready | Send post-PPA |
+| Tier 1 BCI | Phyllux Mesh | Pioneer | ✅ Ready | Send post-PPA |
+| Tier 1 satellite | Phyllux Wave | Pioneer | ✅ Ready | Send post-PPA |
 | [Climate Tech Co] | Phyllux Core | Mission | ⏳ Template | Customize brief |
 | [MedTech Startup] | Phyllux Mesh | Mission | ⏳ Template | Customize brief |
 | [Antenna Mfg] | Phyllux Wave | Commercial | 📋 Planned | Generate brief |

@@ -308,7 +308,7 @@ biomimetic-inventions-public
 
 ## Integration Examples
 
-### Example 1: Neuralink Brief Generation
+### Example 1: Tier 1 BCI Brief Generation
 
 1. **Superrepo identifies opportunity:**
    - Fusion 234 (Phyllux Mesh + BCIs) in phyllux-inventions-wip
@@ -379,14 +379,29 @@ biomimetic-inventions-public
 
 ---
 
+## PHYLLUX-DOCS
+
+Full project documentation (vision, technical specs, operations, governance, business, IP/legal, research) lives in **PHYLLUX-DOCS** (spine 00_Meta–10_Support). The Superrepo references and coordinates with PHYLLUX-DOCS; it does not duplicate confidential or attorney-only content.
+
+## Official Domains (Coming Soon)
+
+- **https://www.phyllux.org**
+- **https://www.phyllux.io**
+- **https://www.phyllux.com**
+
+These will be functional websites for the Phyllux Project. Hold tight; we're working on it. See [../ECOSYSTEM_AND_LINKS.md](../ECOSYSTEM_AND_LINKS.md) for repo links and domain blurb.
+
+---
+
 ## Related Documents
 
 - [biomimetic-inventions-public.md](biomimetic-inventions-public.md)
 - [phyllux-framework.md](phyllux-framework.md)
 - [phyllux-inventions-wip.md](phyllux-inventions-wip.md)
+- [../ECOSYSTEM_AND_LINKS.md](../ECOSYSTEM_AND_LINKS.md)
 - [../SYSTEM_CONTEXT.md](../SYSTEM_CONTEXT.md)
 - [../architecture/PHYLUX_SYSTEM_MAP.md](../architecture/PHYLUX_SYSTEM_MAP.md)
 
 ---
 
-**Last Updated:** January 25, 2026
+**Last Updated:** January 2026

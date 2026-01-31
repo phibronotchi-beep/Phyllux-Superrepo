@@ -257,7 +257,7 @@
 ### Established Players
 
 **Neural Interfaces:**
-- Neuralink (BCIs)
+- Tier 1 BCI (BCIs)
 - Synchron (Minimally invasive BCIs)
 - Blackrock Neurotech (Neural recording)
 

@@ -49,7 +49,7 @@
 - ⏳ Manufacturing process development
 
 **Path to TRL 6-7:**
-1. Partner with neural interface company (e.g., Neuralink)
+1. Partner with neural interface company (e.g., BCI leader)
 2. Conduct in-vivo validation studies
 3. Develop manufacturing process
 4. Plan regulatory pathway (FDA, etc.)
@@ -159,7 +159,7 @@
 - ⏳ Regulatory pathway
 
 **Path to TRL 6-7:**
-- Partner with Neuralink or similar BCI company
+- Partner with BCI leader or similar neural interface company
 - Conduct in-vivo validation
 - Plan regulatory pathway
 
@@ -185,7 +185,7 @@
 - ⏳ Environmental testing
 
 **Path to TRL 6-7:**
-- Partner with SpaceX or similar satellite company
+- Partner with satellite constellation leader or similar company
 - Build physical prototype
 - Space qualification testing
 
@@ -228,7 +228,7 @@
 - Fusion 241 (Mesh + Neuroprosthetics): TRL 4-5 → 6-7
 
 **Activities:**
-- Partner identification (Neuralink, Medtronic, etc.)
+- Partner identification (BCI leaders, Medtronic, etc.)
 - Validation planning
 - Regulatory pathway planning
 
@@ -238,7 +238,7 @@
 - Fusion 125 (Wave + 5G/6G): TRL 3-4 → 6-7
 
 **Activities:**
-- Partner identification (SpaceX, Ericsson, etc.)
+- Partner identification (satellite leaders, Ericsson, etc.)
 - Prototype development
 - Environmental testing
 - Standards compliance

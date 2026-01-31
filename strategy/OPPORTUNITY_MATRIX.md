@@ -194,8 +194,8 @@ Each fusion is scored on:
 ### Tier 1: Pioneer
 **Count:** [To be calculated]  
 **Top Opportunities:**
-- Fusion 234: Mesh + BCIs (Neuralink)
-- Fusion 115: Wave + Satellites (SpaceX)
+- Fusion 234: Mesh + BCIs (Tier 1 BCI)
+- Fusion 115: Wave + Satellites (Tier 1 satellite)
 
 **Revenue Potential:** $30-150M  
 **Timeline:** 12-24 months
@@ -235,7 +235,7 @@ Each fusion is scored on:
 4. Generates this matrix with rankings
 
 **Manual Override:**
-- High-priority fusions (e.g., Neuralink, SpaceX) may be manually adjusted
+- High-priority fusions (e.g., Tier 1 BCI, Tier 1 satellite) may be manually adjusted
 - Strategic considerations may influence scoring
 - Maturity advancement may update scores
 

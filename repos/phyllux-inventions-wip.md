@@ -24,8 +24,8 @@ Each fusion combines:
 - **One Emerging Technology:** From 12+ categories (Biological, Quantum, AI/ML, etc.)
 
 **Example Fusions:**
-- Fusion 234: Phyllux Mesh + Brain-Computer Interfaces (Neuralink alignment)
-- Fusion 115: Phyllux Wave + Satellite Constellations (SpaceX alignment)
+- Fusion 234: Phyllux Mesh + Brain-Computer Interfaces (Tier 1 BCI alignment)
+- Fusion 115: Phyllux Wave + Satellite Constellations (Tier 1 satellite alignment)
 - Fusion 125: Phyllux Wave + 5G/6G Networks
 - Fusion 241: Phyllux Mesh + Neuroprosthetics
 
@@ -154,12 +154,12 @@ Each fusion is tagged with a maturity level (from phyllux-framework/DISCLOSURE.m
 
 ### For PPA Filing
 1. **Fusion 234: Phyllux Mesh + BCIs** (Structural, 7/10)
-   - Neuralink alignment
+   - Tier 1 BCI alignment
    - Evidence: Public demo code + simulations
    - Figures: 1, 5, 9, 11, 14
 
 2. **Fusion 115: Phyllux Wave + Satellites** (Simulated, 5/10)
-   - SpaceX alignment
+   - Tier 1 satellite alignment
    - Evidence: Public demo code + array factor analysis
    - Figures: 3, 7, 12, 15, 18
 
